@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# macOS system files
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
